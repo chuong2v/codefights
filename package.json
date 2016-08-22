@@ -1,0 +1,24 @@
+{
+  "name": "code-fights",
+  "version": "1.0.0",
+  "description": "my solutions for test from codefights.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chuong2v/codefights.git"
+  },
+  "keywords": [
+    "codefights",
+    "javascript",
+    "algorithms"
+  ],
+  "author": "chuong2v",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuong2v/codefights/issues"
+  },
+  "homepage": "https://github.com/chuong2v/codefights#readme"
+}
